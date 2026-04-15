@@ -52,6 +52,3 @@ await db.batchWrite([
 ## 📜 Audit Trail
 
 Every database change is a commit. Use `history_db.js` to see who changed a record and when.
-
----
-Created with ❤️ by Antigravity
