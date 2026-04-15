@@ -1,4 +1,4 @@
-# GitHub as a Database (Pro)
+# GitHub as a Database
 
 This project transforms a GitHub repository into a fully-featured, version-controlled database. All logic is now organized within the `src/` directory for better maintainability.
 
